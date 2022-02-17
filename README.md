@@ -1,3 +1,2 @@
-# parcel-bundler
-
-Сборка Parcel
+# goit-js-hw-11
+ hw11
